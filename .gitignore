@@ -1,0 +1,36 @@
+# large datasets
+sample_by_match/dataset/
+**/dataset/
+
+# caches
+__pycache__/
+*.pyc
+
+# ROS / catkin
+build/
+devel/
+log/
+
+# generated results
+results/
+**/results/
+logs/
+*.log
+
+# large model/data files
+*.bag
+*.pcd
+*.ply
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.mp4
+*.avi
